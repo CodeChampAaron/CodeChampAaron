@@ -2,7 +2,9 @@
 - 👀 I’m interested in machine learning and how computer science and can be applied to modern medicine
 - 🌱 I’m currently learning at the university of Delaware
 - 💞️ I’m looking to collaborate on research projects and other cool things
-- 📫 How to reach me: bigaaron@udel.edu
+- 📫 How to reach me @aoster@udel.edu
+
+
 - 
 
 <!---
